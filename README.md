@@ -18,6 +18,6 @@ Displays a random song line on button click
 
 ```bash
 git clone https://github.com/Firoz671/random-song-line-generator
-cd your-repo-name
+cd random-song-line-generator
 open index.html
 ```
